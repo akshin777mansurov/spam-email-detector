@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+.venv/
+venv/
+env/
+
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+.DS_Store
+Thumbs.db
